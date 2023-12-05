@@ -1,0 +1,26 @@
+.postItem {
+  display: flex;
+  width: 700px !important;
+  min-height: 80px;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid rgb(191, 197, 203);
+  margin: 10px 5px;
+  border-radius: 10px;
+  padding: 10px 15px;
+}
+.id {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 30px;
+}
+.textPostItem {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.id-text {
+  display: flex;
+}
